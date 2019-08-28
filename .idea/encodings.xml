@@ -2,5 +2,6 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/中科院分词/WordSplice.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/文本内容重复度/result.txt" charset="GBK" />
   </component>
 </project>
